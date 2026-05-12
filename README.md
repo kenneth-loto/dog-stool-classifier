@@ -2,6 +2,8 @@
 
 An Android app that classifies dog stool images into 5 health categories using an on-device TFLite model fine-tuned from MobileNetV2. Built with Flutter. Designed for fur parents as a first-line health monitoring tool — snap a photo, get a classification, and see relevant remedies when a vet isn't immediately available.
 
+![Preview](assets/project-preview.png)
+
 ## Features
 
 - **Image Capture & Upload** — Capture directly in-app or upload from gallery. Flashlight toggle for low-light use.
